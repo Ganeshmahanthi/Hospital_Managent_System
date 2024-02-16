@@ -86,7 +86,7 @@ box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
 					<div class="col-md-6 mt-2">
 						<div class="card paint-card">
 							<div class="card-body">
-								<p class="fs-5">Medical Research</p>
+								<p class="fs-5">Medical Research from Bhupesh</p>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 									Voluptatem, inventore</p>
 							</div>
