@@ -51,7 +51,7 @@ box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
 
 
 	<div class="container p-3">
-		<p class="text-center fs-2 ">Key Features of our Hospital</p>
+		<p class="text-center fs-2 ">Key Features of our greatcoder</p>
 
 		<div class="row">
 			<div class="col-md-8 p-5">
